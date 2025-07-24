@@ -17,7 +17,7 @@ Click on any planet to learn a cool fact about it. Inspired by the beauty of spa
 ---
 
 ## 🎥 Live Demo  
-👉 [**View on GitHub Pages**](https://your-username.github.io/solar-system/)  
+👉 [**View on GitHub Pages**](https://piyush2707.github.io/planetary-orbits/)  
 *(Replace with your GitHub username after enabling Pages)*  
 
 ---
